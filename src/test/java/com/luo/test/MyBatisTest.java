@@ -27,5 +27,6 @@ public class MyBatisTest {
 
         System.out.println("hello git master test");
         System.out.println("push test");
+        System.out.println("ssh-1 push test");
     }
 }

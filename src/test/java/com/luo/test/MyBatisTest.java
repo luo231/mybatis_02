@@ -26,5 +26,6 @@ public class MyBatisTest {
         System.out.println("hello git hit-fix test");
 
         System.out.println("hello git master test");
+        System.out.println("push test");
     }
 }
